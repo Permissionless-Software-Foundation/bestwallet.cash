@@ -1,6 +1,6 @@
 {
-  "name": "wallet.fullstack.cash",
-  "description": "A Gatsby IPFS-enabled web app and BCH web wallet.",
+  "name": "bestwallet.cash",
+  "description": "An eCash web wallet",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Chris Troutner <chris.troutner@gmail.com>",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Permissionless-Software-Foundation/wallet.fullstack.cash"
+    "url": "https://github.com/Permissionless-Software-Foundation/bestwallet.cash"
   },
   "bugs": {
-    "url": "https://github.com/Permissionless-Software-Foundation/wallet.fullstack.cash/issues"
+    "url": "https://github.com/Permissionless-Software-Foundation/bestwallet.cash/issues"
   },
   "devDependencies": {
     "husky": "^4.3.8",
